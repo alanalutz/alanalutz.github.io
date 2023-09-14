@@ -9,7 +9,9 @@ tags:
 ---
 
 As Wright said,
+
 >the use of GIS is not a sufficient condition for science.
+
 One can use GIS software as nothing more than a tool to make pretty maps that are utterly meaningless. However, GIS can be used to conduct science when rigorous methodologies are applied that recognize the limitations of the technology – namely, that GIS is an abstraction of reality. It is the process of making a computerized model that tries to accurately describe the real world, and then using that model to draw conclusions and make predictions or generalizations. Modeling is used in most fields and is, of course, not unique to GIS, but its limitations must be acknowledged.\
 \
 Specifically, the outputs of GIS must be tested to determine how well they represent the real world so that a degree of uncertainty can be established. Otherwise, the model remains an abstraction that cannot be verified. For instance, GIS can be used to make a prediction: What areas are this species of bird most likely to occupy based on its habitat preferences? We cannot verify these predictions without a field assessment of sample points, which becomes its own form of science. In addition, like any model, GIS analysis is only as robust as its underlying data. All GIS is based on existing spatial data that was collected somewhere, somehow. If we are regarding GIS as science, then that data collection (and data selection) should be acknowledged as a critical part of the scientific process, while the GIS itself is merely the interpretation and visualization of that data.\
