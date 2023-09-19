@@ -7,7 +7,7 @@ tags:
   - GIS
   - science
 ---
-test
+
 As Wright said,
 
 >the use of GIS is not a sufficient condition for science.
