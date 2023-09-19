@@ -7,6 +7,7 @@ tags:
   - reproducibility
   - replicability
   - GIS
+  - science
 ---
 
 Open source GIS has the potential to revolutionize the way we see reproducibility and replicability in the field of geography.
