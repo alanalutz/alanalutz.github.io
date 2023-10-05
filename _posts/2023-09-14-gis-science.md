@@ -8,7 +8,7 @@ tags:
   - science
 ---
 
-As Wright said,
+All the way back in 1997, the geographer Dawn J. Wright addressed the ambiguity of GIS as 'tool' versus 'science', writing:
 
 >the use of GIS is not a sufficient condition for science.
 
