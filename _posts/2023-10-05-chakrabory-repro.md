@@ -18,6 +18,6 @@ I added my own deviation to this reproduction by modifying the spatial clusters 
 Specifically, I chose not to create separate clusters for each state, removing the assumed state-level correlation from the clustering methodology.
 (For more information, see the full [reproduction report.](http://alanalutz.github.io/RPr-Chakraborty-2021/))
 Like the previous deviations, this modification confirmed that while some of the tested associations are more robust than others, the overall outcomes of the study remain largely unchanged.
-Each deviation continues to improve the original study, offering nuance to the results while solidifying its broader conclusions.
-
+Each deviation continues to improve the original study, offering nuance to the results while solidifying its broader conclusions.\
+\
 Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)
