@@ -1,6 +1,6 @@
 ---
 title: "Reproducible and Open GIScience"
-excerpt_separator: "<!--more-->"
+last_modified_at: 2023-09-19T16:20:02-05:00
 categories:
   - Blog
 tags:
@@ -27,4 +27,9 @@ Open source GIS also does not yet address the tension between replicability and 
 Open source GIS has been characterized as a “gift economy,” contrasted with the standard capitalist economy of academia in that a researcher’s professional standing is determined by how much they share and contribute, rather than by how much they own and control.
 However, while the open science model has the potential to radically change the way research is conducted, it may take some time before this new way of thinking can permeate the systems within the established culture of academia.\
 \
-Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)
+Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)\
+\
+References:\
+NASEM. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. [DOI: 10.17226/25303.](https://doi.org/10.17226/25303) Chapter 3, Understanding reproducibility and replicability (pages 31-43 )\
+Rey, S. J. 2009. Show me the code: Spatial analysis and open source. Journal of Geographical Systems 11 (2):191–207. [DOI: 10.1007/s10109-009-0086-8](http://dx.doi.org/10.1007/s10109-009-0086-8)\
+Dr. Rachel Ainsworth discusses open science culture: https://youtu.be/c-bemNZ-IqA
