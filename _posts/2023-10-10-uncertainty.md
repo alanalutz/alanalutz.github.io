@@ -29,5 +29,5 @@ There must be full provenance (i.e. data lineage and workflow history) published
 Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)\
 \
 References:\
-Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley. Chapter 6: Uncertainty, (pages 127-153)\
-Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. Annals of the American Association of Geographers 111 (5):1318–1328. DOI:10.1080/24694452.2020.1806029
+- Longley, P. A., M. F. Goodchild, D. J. Maguire, and D. W. Rhind. 2008. Geographical information systems and science 2nd ed. Chichester: Wiley. Chapter 6: Uncertainty, (pages 127-153)\
+- Tullis, J. A., and B. Kar. 2021. Where Is the Provenance? Ethical Replicability and Reproducibility in GIScience and Its Critical Applications. Annals of the American Association of Geographers 111 (5):1318–1328. DOI:10.1080/24694452.2020.1806029

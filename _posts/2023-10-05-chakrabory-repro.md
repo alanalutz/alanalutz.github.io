@@ -9,10 +9,9 @@ tags:
   - COVID-19
 ---
 
-This week, I tested the waters of what it's like to reproduce the work of other researchers by modifying the the code from [Chakraborty (2021)](https://doi.org/10.1016/j.dhjo.2020.101007), a study that analyzed county-level association of disability and COVID-19.
+This week, I tested the waters of what it's like to reproduce the work of other researchers by modifying the the [code](https://github.com/alanalutz/RPr-Chakraborty-2021) from [Chakraborty (2021)](https://doi.org/10.1016/j.dhjo.2020.101007), a study that analyzed county-level association of disability and COVID-19.
 In the process, I learned that while reproduction is messy, often frustrating, and dependent on the incomplete documentation provided by the original researcher, it is a valuable way to improve on the work of others and build upon the existing body of scientific knowledge.
-The numerous deviations, both planned and unplanned, of previous reproductions to this study demonstrated how slight changes in the computational environment or analytical decisions can affect results
-and test the robustness of the study's broader conclusions.\
+The numerous deviations, both planned and unplanned, of previous reproductions to this study demonstrated how slight changes in the computational environment or analytical decisions can affect results and test the robustness of the study's broader conclusions.\
 \
 I added my own deviation to this reproduction by modifying the spatial clusters of counties with higher relative risk of COVID-19.
 Specifically, I chose not to create separate clusters for each state, removing the assumed state-level correlation from the clustering methodology.
