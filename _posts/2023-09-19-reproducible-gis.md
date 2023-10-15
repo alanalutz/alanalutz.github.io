@@ -25,4 +25,6 @@ Open source GIS also does not yet address the tension between replicability and 
 
 \
 Open source GIS has been characterized as a “gift economy,” contrasted with the standard capitalist economy of academia in that a researcher’s professional standing is determined by how much they share and contribute, rather than by how much they own and control.
-However, while the open science model has the potential to radically change the way research is conducted, it may take some time before this new way of thinking can permeate the systems within the established culture of academia.
+However, while the open science model has the potential to radically change the way research is conducted, it may take some time before this new way of thinking can permeate the systems within the established culture of academia.\
+\
+Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)
