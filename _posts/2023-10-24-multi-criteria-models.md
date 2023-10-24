@@ -26,5 +26,5 @@ Even though my personal research interests lie more in the realm of conservation
 Here is more information about the class I'm taking, [Open GIScience.](http://opengisci.github.io)\
 \
 **References:**
-- Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. Social Science Quarterly, 84(2), 242–261. [https://doi.org/10.1111/1540-6237.8402002]
-- Rufat, S., Tate, E., Emrich, C. T., & Antolini, F. (2019). How Valid Are Social Vulnerability Models? Annals of the American Association of Geographers, 109(4), 1131–1153. [https://doi.org/10.1080/24694452.2018.1535887]
+- Cutter, S. L., Boruff, B. J., & Shirley, W. L. (2003). Social vulnerability to environmental hazards. Social Science Quarterly, 84(2), 242–261. https://doi.org/10.1111/1540-6237.8402002
+- Rufat, S., Tate, E., Emrich, C. T., & Antolini, F. (2019). How Valid Are Social Vulnerability Models? Annals of the American Association of Geographers, 109(4), 1131–1153. https://doi.org/10.1080/24694452.2018.1535887
