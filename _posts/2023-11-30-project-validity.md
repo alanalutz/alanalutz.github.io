@@ -26,6 +26,7 @@ If the data is available, a potential solution is to incorporate seasonal data t
 \
 A final geographic threat to validity in this study could be boundary distortions.
 If the extent of the study area is not based on ecologically sound data that indicates wildlife movement patterns, it may not accurately represent movement pathways within the study area.
-It will be important to confirm that the study area is a reasonable wildlife corridor through with animals move from one protected area to another.
+It will be important to confirm that the study area is a reasonable wildlife corridor through with animals move from one protected area to another.\
+\
 **References:**
 - Schmitt, R. R. (1978). Threats to validity involving geographic space. Socio-Economic Planning Sciences, 12(4), 191–195. https://doi.org/10.1016/0038-0121(78)90044-7
