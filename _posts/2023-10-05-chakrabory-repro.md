@@ -3,6 +3,7 @@ title: "A First Crack at Reproduction"
 last_modified_at: 2023-10-05T16:20:02-05:00
 categories:
   - Blog
+  - Reproduction
 tags:
   - GIS
   - science

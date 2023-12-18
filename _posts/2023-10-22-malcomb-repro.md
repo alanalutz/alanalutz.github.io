@@ -3,6 +3,7 @@ title: "Reproducing a Climate Vulnerability Model"
 last_modified_at: 2023-10-22T16:20:02-05:00
 categories:
   - Blog
+  - Reproduction
 tags:
   - GIS
   - science
