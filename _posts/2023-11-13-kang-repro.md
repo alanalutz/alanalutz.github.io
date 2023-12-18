@@ -16,7 +16,7 @@ The purpose of the original study was to develop a methodology to rapidly measur
 We modified the study's original methodology by using the osmnx.speed module to set speed limits, rather than setting all unknown speed limits to a default of 35 mph.
 (Find the code repository [here.](https://github.com/alanalutz/RPr-Kang-2020))
 This adjustment improved the validity of the study by increasing the accuracy of speed limit data.
-In particular, the modified network analysis better represents the slower speed limits of Chicago's residential areas. The modification noticeably affected the study's final spatial accessibility results for the vulnerable population over 50, producing a zone of highest accessibility that is smaller and does not extend as far to the northwest.
+In particular, the modified network analysis better represents the slower speed limits of Chicago's residential areas. It also more accurately represents Chicago's faster highway speeds. Although it is somewhat tricky to directly compare accessibility on a normalized 0 to 1 scale, the modification noticeably affected the study's final spatial accessibility results for the vulnerable population over 50, producing a zone of highest accessibility that is smaller and does not extend as far to the northwest.
 Thus, we should interpret the original study results with caution, knowing that they may erroneously inflate accessibility with higher default speed limits.\
 \
 For more information, read the full reproduction report [here.](https://alanalutz.github.io/RPr-Kang-2020/)\
