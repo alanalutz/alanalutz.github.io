@@ -2,7 +2,6 @@
 title: "Reproducing and Reanalyzing SoVI Validity"
 last_modified_at: 2023-10-30T16:20:02-05:00
 categories:
-  - Blog
   - Reproduction
 tags:
   - GIS

@@ -2,7 +2,6 @@
 title: "Is GIS a Science?"
 last_modified_at: 2023-09-14T16:20:02-05:00
 categories:
-  - Blog
   - Response
 tags:
   - GIS

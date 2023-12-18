@@ -2,7 +2,6 @@
 title: "Multi-Criteria Model Validity"
 last_modified_at: 2023-10-24T16:20:02-05:00
 categories:
-  - Blog
   - Response
 tags:
   - vulnerability

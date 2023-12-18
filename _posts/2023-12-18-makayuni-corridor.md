@@ -2,7 +2,6 @@
 title: "Reproducing a Wildlife Corridor Analysis"
 last_modified_at: 2023-12-18T16:20:02-05:00
 categories:
-  - Blog
   - Reproduction
 tags:
   - GIS
