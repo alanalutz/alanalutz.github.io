@@ -9,7 +9,7 @@ tags:
   - wildlife corridor
 ---
 
-For my culminating project in this class, I worked with Andy Atallah to reproduce a multi-criteria movement cost surface of Makayuni Corridor, a wildlife corridor in Tanzania.
+For my culminating project in this class, I worked with [Andy Atallah](https://andya17.github.io/andya17-gis.github.io/) to reproduce a multi-criteria movement cost surface of Makayuni Corridor, a wildlife corridor in Tanzania.
 This cost surface analysis was originally conducted by Justin Lucas using QGIS Model Builder as part of an unpublished study by Lyimo et al, and we reproduced the analysis by converting the QGIS model into an R script.
 (Find the code repository [here.](https://github.com/alanalutz/Makayuni-Corridor))\
 \
